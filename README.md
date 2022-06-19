@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Mateo.
 
-<!--
-**mrodz/mrodz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an upcoming Full-Stack developer currently enthralled by websites and design. I specialize in frontends with [React](https://reactjs.org/), and can write backends in both [Java Spring Boot](https://spring.io/projects/spring-boot) and [NodeJS Express](https://expressjs.com/). 
 
-Here are some ideas to get you started:
+Languages I know:
+- Java
+- Python
+- C
+- Powershell
+- JavaScript/TypeScript & SCSS
+- SQLite Queries
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This account embodies my programming journey; stay tuned for more exciting projects to come!
