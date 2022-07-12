@@ -5,8 +5,8 @@ I am an upcoming Full-Stack developer currently enthralled by websites and desig
 Languages I know:
 - Java
 - Python
+- Rust
 - C
-- Powershell
 - JavaScript/TypeScript & SCSS
 - SQLite Queries
 
