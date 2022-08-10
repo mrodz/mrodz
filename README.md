@@ -8,6 +8,6 @@ Languages I know:
 - Rust
 - C
 - JavaScript/TypeScript & SCSS
-- SQLite Queries
+- Prisma (SQLite & Postgres)
 
 This account embodies my programming journey; stay tuned for more exciting projects to come!
