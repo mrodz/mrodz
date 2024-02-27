@@ -1,24 +1,8 @@
-### Hi, I'm Mateo 😎
+### Hi, I'm Mateo
 
-I'm a high school student who loves to code. Low level languages are thrilling to work with and I like creating projects for ESP-based devices!
+I am a passionate teenager who loves to code ❤️
 
-My goal right now is to finish a programming language of my own. Check it out!
+I enjoy programming in Rust but am also well-versed in Java, Python, and C. I am always looking out for the newest technologies and try to learn something new with each project I create!
 
-#### Stats
+I'm pretty active on GitHub: HMU for inquiries or if you want to collab.
 
-Languages I like to work with:
-- Rust
-- C/C++
-- All Things Web
-
-Languages I know:
-- Java
-- Python
-- Ruby
-
-Stuff I'm Learning:
-- LVGL
-- Haskell
-- AWS (for app development)
-
-This account embodies my programming journey; stay tuned for more exciting projects to come!
